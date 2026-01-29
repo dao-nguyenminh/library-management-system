@@ -110,8 +110,8 @@ public class Member {
                                 newType.getMaxBooks())
                 );
             }
-            this.membershipType = newType;
         }
+        this.membershipType = newType;
     }
 
     public String getMemberId() {
